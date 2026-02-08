@@ -1,1 +1,0 @@
-print("[string "C:\Users\Jhona\discord\temp\user_1362183299992391790_1770592908424.lua"]")
