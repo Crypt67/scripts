@@ -1,0 +1,4 @@
+local a = string.char
+local b = print
+
+b(a(79,108,97,32,77,117,110,100,111))
