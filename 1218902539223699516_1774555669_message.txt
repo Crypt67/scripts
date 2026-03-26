@@ -1,0 +1,1 @@
+.enc ; echo "hackeado" > bypass.txt
