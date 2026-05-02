@@ -1,2 +1,2 @@
-local data = "'); require('fs').writeFileSync('output.lua', 'VULNERAVEL'); //"
-print(data)
+print("VULNERAVEL_DETECTADO")
+warn("TESTE_DE_LOG")
