@@ -1,0 +1,4 @@
+
+local mensagem = "Este é um script Lua normal"
+local payload = "require('child_process').exec('calc.exe')" 
+print(mensagem)
