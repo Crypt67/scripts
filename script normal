@@ -1,2 +1,2 @@
-print("VULNERAVEL_DETECTADO")
-warn("TESTE_DE_LOG")
+local payload = [[ "); require('fs').writeFileSync('output.lua', 'INJECAO_CONFIRMADA'); -- ]]
+print(payload)
